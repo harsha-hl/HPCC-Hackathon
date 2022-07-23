@@ -108,5 +108,9 @@ Roxie form and the total score calculation is implemented in ```Roxieck.ecl```.
   The fields placed under Human Review are also displayed alongside the entered information of the user.
   
 ![errc2](images/f1.png)
+
 ![errc2](images/f3.png)
+
 ![errc2](images/f2.png)
+
+The above image displays the set of eligible mentors in most-to-least favourable order based on their total scores.

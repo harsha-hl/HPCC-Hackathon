@@ -2,7 +2,7 @@
 
   ## Problem Statement
   
-  Design a weighted mechanism to match youth to mentoring families. 
+  Design a weighted mechanism to match (homeless / out of foster care) youth to mentoring families. 
   
 1. Weights are provided on the scale of 0 to 5 with 5 being the maximum or most favouring. A number of fields act as parameters in matching a youth with their set of best mentors.
 

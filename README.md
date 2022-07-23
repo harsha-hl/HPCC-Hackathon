@@ -66,7 +66,7 @@ The total score for each mentor is calculated as follows :
 ![hrev](images/hrev.png)
 
 - If no option is selected for any of the youth parameters in the form, that category/field is placed under human review.
-- The parameters under human review are listed as a single cell table in the roxie form once the queryquery is run.
+- The parameters under human review are listed as a single cell table in the roxie form once the query is run.
 
 ![hrcode](images/hrcode.png)
 

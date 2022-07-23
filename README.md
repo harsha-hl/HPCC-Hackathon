@@ -109,4 +109,3 @@ Roxie form and the total score calculation is implemented in ```Roxieck.ecl```.
 ![errc2](images/f1.png)
 ![errc2](images/f2.png)
 ![errc2](images/f3.png)
-![errc2](images/errc2.png)
